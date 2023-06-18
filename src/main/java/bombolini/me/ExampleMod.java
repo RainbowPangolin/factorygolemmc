@@ -56,3 +56,11 @@ public class ExampleMod implements ModInitializer {
 
 	}
 }
+
+//TODO:
+
+/**
+ * Ability to right click things
+ * Basic pathfinding
+ *
+ * */
